@@ -118,16 +118,16 @@ h1 {
     margin-bottom: 250px;
 }
 
-.red {
-    color: red;
-    text-decoration: underline red;
-}
-
 .finalsite,
 .youtubelink {
     text-align: center;
     margin-top: 75px;
     margin-bottom: 150px;
+}
+
+.red {
+    color: red;
+    text-decoration: underline red;
 }
 
 .logindetails {
